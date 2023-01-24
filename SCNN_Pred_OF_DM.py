@@ -4,6 +4,9 @@ SDCNN_Pred_OF_DM simulates the EEG-like response of Jansen rit model as a functi
 values for paramter C.
 
 Authors: Neda Kaboodvand & Behzad Iravani
+n.kaboodvand@gmail.com
+behzadiravani@gmail.com
+Palo Alto, January 2023
 
 '''
 from tensorflow import keras
